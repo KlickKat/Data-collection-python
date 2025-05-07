@@ -3,8 +3,6 @@ User is provided with many options to choose. on selecting an option it stores u
 
 Loops used:
 
-For
-
-While
+For and While
 
 
